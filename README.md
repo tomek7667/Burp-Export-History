@@ -66,5 +66,3 @@ To make changes:
 1. Edit the source code
 2. Rebuild the JAR
 3. Reload the extension in Burp Suite
-
-## License
